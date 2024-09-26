@@ -13,7 +13,7 @@ La automatización de tareas con robots industriales es clave para mejorar la ef
 
 ## Instrucciones
 
-### 1. Abrir el software Epson RC+ 7.0 y ajustar la conección
+### 1. Abrir el software Epson RC+ 7.0 y ajustar la conexion
 La conexión sera por medio de USB, que es por donde se subiran las instrucciones de la computadora al robot (en nuestro caso en un robot Epson C4 de seis ejes).
 
 ![image](https://github.com/user-attachments/assets/f53d896d-24dd-4f9a-ae4d-27dc472d6d49)
